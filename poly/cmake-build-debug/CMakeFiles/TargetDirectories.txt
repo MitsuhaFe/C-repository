@@ -1,0 +1,3 @@
+D:/CodeProject/C++/poly/cmake-build-debug/CMakeFiles/poly.dir
+D:/CodeProject/C++/poly/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CodeProject/C++/poly/cmake-build-debug/CMakeFiles/rebuild_cache.dir

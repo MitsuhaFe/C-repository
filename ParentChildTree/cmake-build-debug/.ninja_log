@@ -1,0 +1,13 @@
+# ninja log v6
+8	349	7538880051238634	CMakeFiles/ParentChildTree.dir/main.cpp.obj	fc07b9d1938d5140
+353	508	7538880054687789	ParentChildTree.exe	739a4455c416d0bb
+11	364	7538882587377599	CMakeFiles/ParentChildTree.dir/main.cpp.obj	fc07b9d1938d5140
+366	532	7538882590933958	ParentChildTree.exe	739a4455c416d0bb
+9	412	7538882922830104	CMakeFiles/ParentChildTree.dir/main.cpp.obj	fc07b9d1938d5140
+414	573	7538882926882403	ParentChildTree.exe	739a4455c416d0bb
+9	356	7538883507660136	CMakeFiles/ParentChildTree.dir/main.cpp.obj	fc07b9d1938d5140
+358	533	7538883511147235	ParentChildTree.exe	739a4455c416d0bb
+10	395	7538893913974582	CMakeFiles/ParentChildTree.dir/main.cpp.obj	fc07b9d1938d5140
+397	559	7538893917837251	ParentChildTree.exe	739a4455c416d0bb
+11	380	7538901148017464	CMakeFiles/ParentChildTree.dir/main.cpp.obj	fc07b9d1938d5140
+382	552	7538901151727767	ParentChildTree.exe	739a4455c416d0bb

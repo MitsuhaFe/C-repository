@@ -1,0 +1,3 @@
+D:/CodeProject/C++/HuffmanCoding/cmake-build-debug/CMakeFiles/HuffmanCoding.dir
+D:/CodeProject/C++/HuffmanCoding/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CodeProject/C++/HuffmanCoding/cmake-build-debug/CMakeFiles/rebuild_cache.dir

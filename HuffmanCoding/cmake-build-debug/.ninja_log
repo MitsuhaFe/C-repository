@@ -1,0 +1,11 @@
+# ninja log v6
+6	402	7538915697871250	CMakeFiles/HuffmanCoding.dir/main.cpp.obj	5afc6cd25d1d2d54
+6	561	7538915906650779	CMakeFiles/HuffmanCoding.dir/huffman.cpp.obj	2afe5bc9eddad5b6
+563	748	7538915912221949	HuffmanCoding.exe	659ee244591630de
+5	391	7538917674342348	CMakeFiles/HuffmanCoding.dir/main.cpp.obj	5afc6cd25d1d2d54
+393	582	7538917678223876	HuffmanCoding.exe	659ee244591630de
+6	418	7538918883559875	CMakeFiles/HuffmanCoding.dir/main.cpp.obj	5afc6cd25d1d2d54
+419	607	7538918887707445	HuffmanCoding.exe	659ee244591630de
+7	510	7538920779818755	CMakeFiles/HuffmanCoding.dir/main.cpp.obj	5afc6cd25d1d2d54
+28	705	7538920780031568	CMakeFiles/HuffmanCoding.dir/huffman.cpp.obj	2afe5bc9eddad5b6
+705	898	7538920786799474	HuffmanCoding.exe	659ee244591630de
